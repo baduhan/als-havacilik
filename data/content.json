@@ -1,0 +1,456 @@
+{
+ "langs": {
+  "tr": {
+   "site": {
+    "phone": "+90 242 000 00 00",
+    "email": "info@alshavacilik.com",
+    "address": "Antalya Havalimanı Yanı, Muratpaşa / Antalya",
+    "name": "ALS Havacılık",
+    "heroImage": "",
+    "fuelImage": "/uploads/fa2ee7cfcc40ed0b.jpg",
+    "charterImage": "/uploads/548e84f8a95d83c3.jpg",
+    "aboutImage": "/uploads/aafcbcca0436220d.jpg",
+    "tagline": "Jet yakıtı tedariki ve özel jet kiralama",
+    "heroTitle": "Gökyüzünde güvenin adı.",
+    "heroText": "Dünya genelinde Jet A-1 yakıt tedariki ve özel jet kiralama. Tek teklif, net fiyat, 7/24 operasyon desteği.",
+    "fuelTitle": "Jet yakıtı aracılık hizmeti",
+    "fuelText": "Jet A-1 yakıtını 150’den fazla ülkede rekabetçi fiyatla, uçuş planınıza uygun zamanlama ile tedarik ederiz. Fiyat teklifi genellikle 1 saat içinde iletilir.",
+    "charterTitle": "Özel jet kiralama",
+    "charterText": "Hafif jetlerden uzun menzilli büyük kabin jetlere kadar geniş filo seçeneği sunarız. Tek yön, gidiş-dönüş ve boş bacak fırsatları için bize ulaşın.",
+    "aboutTitle": "Şeffaf fiyat, kesintisiz operasyon",
+    "about": "Yakıt fiyatını, havalimanı ücretlerini ve izinleri tek teklifte sunarız. Özel jet kiralamada filo seçiminden yer hizmetlerine kadar tüm süreci yönetiriz.",
+    "whoTitle": "Biz kimiz",
+    "whoText": "ALS Havacılık, Antalya merkezli bir havacılık hizmetleri şirketidir. Jet yakıtı tedariki ve özel jet kiralamayı tek çatı altında toplayarak operatörlere ve yolculara sade, öngörülebilir bir deneyim sunar.",
+    "mission": "Her uçuş için doğru yakıtı, doğru fiyata ve zamanında ulaştırmak; kiralama sürecini güvenli ve şeffaf yönetmek.",
+    "vision": "Bölgenin en güvenilen havacılık aracılık markası olmak.",
+    "bannerTitle": "500’den fazla operatör ve yolcunun tercihi",
+    "bannerText": "Başarınız için çalışan küresel topluluğumuza katılın.",
+    "heroImage2": "",
+    "heroImage3": "",
+    "linkedin": "https://www.linkedin.com/",
+    "instagram": "https://www.instagram.com/",
+    "careerTitle": "Kariyer",
+    "careerText": "Havacılığın tempolu ve sorumluluk gerektiren dünyasında birlikte çalışacak, titiz ve öğrenmeye açık ekip arkadaşları arıyoruz.",
+    "mapTitle": "Dünyanın her köşesine, tek operasyon masasından",
+    "mapText": "Antalya merkezli ekibimiz yakıt tedarikini, izinleri ve yer hizmetlerini aynı anda koordine eder. Rota nereye olursa olsun, teklif tek, süreç şeffaf."
+   },
+   "stats": [
+    {
+     "a": "150+",
+     "b": "Ülkede yakıt erişimi"
+    },
+    {
+     "a": "1 saat",
+     "b": "Ortalama teklif süresi"
+    },
+    {
+     "a": "7/24",
+     "b": "Operasyon masası"
+    },
+    {
+     "a": "40+",
+     "b": "Jet seçeneği"
+    }
+   ],
+   "services": [
+    {
+     "a": "Jet A-1 yakıt tedariki",
+     "b": "Havalimanlarında yakıt, tek fatura ve net fiyat."
+    },
+    {
+     "a": "Özel jet kiralama",
+     "b": "Uçak, mürettebat ve sigorta dahil teklif."
+    },
+    {
+     "a": "Uçuş izin ve slot",
+     "b": "Aşım, iniş izinleri ve slot koordinasyonu."
+    },
+    {
+     "a": "Yer hizmetleri",
+     "b": "VIP karşılama, hangar, catering ve transfer."
+    }
+   ],
+   "fleet": [
+    {
+     "a": "Hafif jet",
+     "b": "Phenom 300",
+     "c": "7 yolcu",
+     "d": "3.650 km"
+    },
+    {
+     "a": "Orta boy jet",
+     "b": "Citation Latitude",
+     "c": "9 yolcu",
+     "d": "5.000 km"
+    },
+    {
+     "a": "Büyük jet",
+     "b": "Gulfstream G450",
+     "c": "14 yolcu",
+     "d": "8.000 km"
+    },
+    {
+     "a": "Ultra uzun menzil",
+     "b": "Global 6000",
+     "c": "16 yolcu",
+     "d": "11.000 km"
+    }
+   ],
+   "values": [
+    {
+     "a": "Güvenlik",
+     "b": "Her kararın önünde operasyonel güvenlik gelir."
+    },
+    {
+     "a": "Şeffaflık",
+     "b": "Fiyat ve ücretler teklifte açıkça yer alır."
+    },
+    {
+     "a": "Hız",
+     "b": "Teklifler ortalama bir saat içinde iletilir."
+    },
+    {
+     "a": "Süreklilik",
+     "b": "7/24 operasyon masası uçuş boyunca yanınızda."
+    }
+   ],
+   "slides": [
+    {
+     "a": "Havacılık bizim işimiz",
+     "b": "Yakıt tedarikinden özel jet kiralamaya, bir adım daha ileri",
+     "c": "#hizmetler"
+    },
+    {
+     "a": "Sektör uzmanlığı",
+     "b": "Havacılığın her alanında kapsamlı ve güvenilir deneyim",
+     "c": "/about"
+    },
+    {
+     "a": "Önce güvenlik",
+     "b": "Güvenli, şeffaf ve zamanında operasyon",
+     "c": "#filo"
+    }
+   ],
+   "perks": [
+    {
+     "a": "Gerçek sorumluluk",
+     "b": "Her uçuş bir ekip işidir; ilk günden somut sorumluluk alırsınız."
+    },
+    {
+     "a": "Gelişim",
+     "b": "Eğitimler ve deneyimli ekip arkadaşlarından mentorluk."
+    },
+    {
+     "a": "Küresel iş",
+     "b": "Farklı ülkelerden operatör ve havalimanlarıyla çalışma fırsatı."
+    }
+   ],
+   "jobs": [
+    {
+     "a": "Uçuş Operasyon Koordinatörü",
+     "b": "Antalya",
+     "c": "Tam zamanlı"
+    },
+    {
+     "a": "Yakıt Tedarik Uzmanı",
+     "b": "Antalya / Uzaktan",
+     "c": "Tam zamanlı"
+    }
+   ]
+  },
+  "en": {
+   "site": {
+    "tagline": "Jet fuel supply and private jet charter",
+    "heroTitle": "Trust, at altitude.",
+    "heroText": "Worldwide Jet A-1 fuel supply and private jet charter. One quote, clear pricing, 24/7 operations support.",
+    "fuelTitle": "Jet fuel brokerage",
+    "fuelText": "We supply Jet A-1 in more than 150 countries at competitive prices, timed to your flight plan. Quotes are usually sent within one hour.",
+    "charterTitle": "Private jet charter",
+    "charterText": "From light jets to long-range large-cabin aircraft, we offer a wide fleet. Contact us for one-way, round-trip and empty-leg opportunities.",
+    "aboutTitle": "Transparent pricing, uninterrupted operations",
+    "about": "We present fuel price, airport fees and permits in a single quote. For charter, we manage everything from aircraft selection to ground handling.",
+    "whoTitle": "Who we are",
+    "whoText": "ALS Aviation is an aviation services company based in Antalya. By bringing jet fuel supply and private charter under one roof, we give operators and passengers a simple, predictable experience.",
+    "mission": "To deliver the right fuel at the right price and on time for every flight, and to manage charter safely and transparently.",
+    "vision": "To be the most trusted aviation brokerage brand in the region.",
+    "bannerTitle": "Trusted by over 500 operators and passengers",
+    "bannerText": "Join our community around the world helping you succeed.",
+    "careerTitle": "Careers",
+    "careerText": "We are looking for careful, curious colleagues to work with us in the fast-paced, high-responsibility world of aviation.",
+    "mapTitle": "One desk, every corner of the world",
+    "mapText": "Our Antalya-based team coordinates fuel, permits and ground handling at the same time. Wherever the route leads, the quote is single and the process transparent."
+   },
+   "stats": [
+    {
+     "a": "150+",
+     "b": "Countries with fuel access"
+    },
+    {
+     "a": "1 hour",
+     "b": "Average quote time"
+    },
+    {
+     "a": "24/7",
+     "b": "Operations desk"
+    },
+    {
+     "a": "40+",
+     "b": "Jet options"
+    }
+   ],
+   "services": [
+    {
+     "a": "Jet A-1 fuel supply",
+     "b": "Fuel at airports, a single invoice and clear pricing."
+    },
+    {
+     "a": "Private jet charter",
+     "b": "Quotes including aircraft, crew and insurance."
+    },
+    {
+     "a": "Permits and slots",
+     "b": "Overflight, landing permits and slot coordination."
+    },
+    {
+     "a": "Ground handling",
+     "b": "VIP reception, hangar, catering and transfers."
+    }
+   ],
+   "fleet": [
+    {
+     "a": "Light jet",
+     "b": "Phenom 300",
+     "c": "7 passengers",
+     "d": "3,650 km"
+    },
+    {
+     "a": "Midsize jet",
+     "b": "Citation Latitude",
+     "c": "9 passengers",
+     "d": "5,000 km"
+    },
+    {
+     "a": "Heavy jet",
+     "b": "Gulfstream G450",
+     "c": "14 passengers",
+     "d": "8,000 km"
+    },
+    {
+     "a": "Ultra long range",
+     "b": "Global 6000",
+     "c": "16 passengers",
+     "d": "11,000 km"
+    }
+   ],
+   "values": [
+    {
+     "a": "Safety",
+     "b": "Operational safety comes before every decision."
+    },
+    {
+     "a": "Transparency",
+     "b": "Prices and fees are clearly stated in the quote."
+    },
+    {
+     "a": "Speed",
+     "b": "Quotes are sent within about an hour."
+    },
+    {
+     "a": "Continuity",
+     "b": "A 24/7 operations desk is with you throughout the flight."
+    }
+   ],
+   "slides": [
+    {
+     "a": "Aviation is what we do",
+     "b": "From fuel supply to private charter, we go one step further",
+     "c": "#hizmetler"
+    },
+    {
+     "a": "Industry expertise",
+     "b": "Comprehensive and reliable experience across aviation",
+     "c": "/about"
+    },
+    {
+     "a": "Safety first",
+     "b": "Safe, transparent and on-time operations",
+     "c": "#filo"
+    }
+   ],
+   "perks": [
+    {
+     "a": "Real responsibility",
+     "b": "Every flight is a team effort; you take on concrete responsibility from day one."
+    },
+    {
+     "a": "Growth",
+     "b": "Training and mentoring from experienced colleagues."
+    },
+    {
+     "a": "Global work",
+     "b": "Work with operators and airports from many countries."
+    }
+   ],
+   "jobs": [
+    {
+     "a": "Flight Operations Coordinator",
+     "b": "Antalya",
+     "c": "Full-time"
+    },
+    {
+     "a": "Fuel Supply Specialist",
+     "b": "Antalya / Remote",
+     "c": "Full-time"
+    }
+   ]
+  },
+  "es": {
+   "site": {
+    "tagline": "Suministro de combustible de aviación y alquiler de jets privados",
+    "heroTitle": "Confianza a gran altura.",
+    "heroText": "Suministro mundial de combustible Jet A-1 y alquiler de jets privados. Una sola oferta, precios claros y soporte operativo 24/7.",
+    "fuelTitle": "Intermediación de combustible de aviación",
+    "fuelText": "Suministramos Jet A-1 en más de 150 países a precios competitivos y según su plan de vuelo. La oferta suele enviarse en una hora.",
+    "charterTitle": "Alquiler de jets privados",
+    "charterText": "Ofrecemos una amplia flota, desde jets ligeros hasta aviones de gran cabina y largo alcance. Consúltenos por vuelos de ida, ida y vuelta o tramos vacíos.",
+    "aboutTitle": "Precios transparentes, operación continua",
+    "about": "Presentamos el precio del combustible, las tasas aeroportuarias y los permisos en una sola oferta. En el alquiler gestionamos todo, desde la elección de la aeronave hasta los servicios en tierra.",
+    "whoTitle": "Quiénes somos",
+    "whoText": "ALS Aviación es una empresa de servicios aeronáuticos con sede en Antalya. Al reunir el suministro de combustible y el alquiler de jets privados, ofrecemos a operadores y pasajeros una experiencia sencilla y previsible.",
+    "mission": "Entregar el combustible adecuado, al precio justo y a tiempo en cada vuelo, y gestionar el alquiler de forma segura y transparente.",
+    "vision": "Ser la marca de intermediación aeronáutica más confiable de la región.",
+    "bannerTitle": "La elección de más de 500 operadores y pasajeros",
+    "bannerText": "Únase a nuestra comunidad mundial que trabaja por su éxito.",
+    "careerTitle": "Carreras",
+    "careerText": "Buscamos compañeros cuidadosos y con ganas de aprender para trabajar con nosotros en el mundo ágil y exigente de la aviación.",
+    "mapTitle": "Una sola mesa, cada rincón del mundo",
+    "mapText": "Nuestro equipo con sede en Antalya coordina combustible, permisos y servicios en tierra a la vez. Sea cual sea la ruta, la oferta es única y el proceso transparente."
+   },
+   "stats": [
+    {
+     "a": "150+",
+     "b": "Países con acceso a combustible"
+    },
+    {
+     "a": "1 hora",
+     "b": "Tiempo medio de oferta"
+    },
+    {
+     "a": "24/7",
+     "b": "Mesa de operaciones"
+    },
+    {
+     "a": "40+",
+     "b": "Opciones de jets"
+    }
+   ],
+   "services": [
+    {
+     "a": "Suministro de Jet A-1",
+     "b": "Combustible en aeropuertos, una sola factura y precio claro."
+    },
+    {
+     "a": "Alquiler de jets privados",
+     "b": "Oferta con aeronave, tripulación y seguro incluidos."
+    },
+    {
+     "a": "Permisos y slots",
+     "b": "Sobrevuelo, permisos de aterrizaje y coordinación de slots."
+    },
+    {
+     "a": "Servicios en tierra",
+     "b": "Recepción VIP, hangar, catering y traslados."
+    }
+   ],
+   "fleet": [
+    {
+     "a": "Jet ligero",
+     "b": "Phenom 300",
+     "c": "7 pasajeros",
+     "d": "3.650 km"
+    },
+    {
+     "a": "Jet mediano",
+     "b": "Citation Latitude",
+     "c": "9 pasajeros",
+     "d": "5.000 km"
+    },
+    {
+     "a": "Jet pesado",
+     "b": "Gulfstream G450",
+     "c": "14 pasajeros",
+     "d": "8.000 km"
+    },
+    {
+     "a": "Muy largo alcance",
+     "b": "Global 6000",
+     "c": "16 pasajeros",
+     "d": "11.000 km"
+    }
+   ],
+   "values": [
+    {
+     "a": "Seguridad",
+     "b": "La seguridad operativa está por encima de cada decisión."
+    },
+    {
+     "a": "Transparencia",
+     "b": "Precios y tasas figuran claramente en la oferta."
+    },
+    {
+     "a": "Rapidez",
+     "b": "Las ofertas se envían en aproximadamente una hora."
+    },
+    {
+     "a": "Continuidad",
+     "b": "Una mesa de operaciones 24/7 le acompaña durante el vuelo."
+    }
+   ],
+   "slides": [
+    {
+     "a": "La aviación es lo nuestro",
+     "b": "Del combustible al alquiler de jets, vamos un paso más allá",
+     "c": "#hizmetler"
+    },
+    {
+     "a": "Experiencia en el sector",
+     "b": "Experiencia amplia y fiable en toda la aviación",
+     "c": "/about"
+    },
+    {
+     "a": "La seguridad primero",
+     "b": "Operaciones seguras, transparentes y puntuales",
+     "c": "#filo"
+    }
+   ],
+   "perks": [
+    {
+     "a": "Responsabilidad real",
+     "b": "Cada vuelo es trabajo en equipo; asumirá responsabilidades concretas desde el primer día."
+    },
+    {
+     "a": "Desarrollo",
+     "b": "Formación y mentoría de compañeros con experiencia."
+    },
+    {
+     "a": "Trabajo global",
+     "b": "Trabaje con operadores y aeropuertos de muchos países."
+    }
+   ],
+   "jobs": [
+    {
+     "a": "Coordinador de operaciones de vuelo",
+     "b": "Antalya",
+     "c": "Jornada completa"
+    },
+    {
+     "a": "Especialista en suministro de combustible",
+     "b": "Antalya / Remoto",
+     "c": "Jornada completa"
+    }
+   ]
+  }
+ },
+ "posts": [],
+ "messages": []
+}

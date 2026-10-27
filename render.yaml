@@ -1,0 +1,17 @@
+# Render.com Blueprint — ücretsiz plan. "New → Blueprint" ile bu depoyu seçmeniz yeterli.
+services:
+  - type: web
+    name: als-havacilik-demo
+    runtime: node
+    plan: free
+    buildCommand: npm ci --omit=dev
+    startCommand: node server.js
+    healthCheckPath: /healthz
+    autoDeployTrigger: commit
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TRUST_PROXY
+        value: "1"
+      - key: ADMIN_PASS
+        generateValue: true   # Render rastgele güçlü parola üretir; Environment sekmesinden görürsünüz
